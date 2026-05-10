@@ -4,6 +4,12 @@ A small static web app that lists every episode of **The Just Rocket Science Sho
 
 The app is a single-page Vite + React + TypeScript build. No backend, no API keys, no secrets — it ships as plain static files.
 
+## Live demo
+
+<https://openclawjagadish.github.io/just-rocket-science-show-app/>
+
+The app is configured for GitHub Pages deployment.
+
 ## Run locally
 
 ```bash
